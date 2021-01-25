@@ -233,3 +233,5 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/osx,code,java,maven,eclipse,intellij
+
+*.iml

@@ -2,18 +2,17 @@
 
 ## Installation
 
-- Zoom http://zoom.us/
-- 'mob' tool https://github.com/remotemobprogramming/mob
-- JDK 11 https://adoptopenjdk.net/
+- 'mob' tool https://mob.sh
+- JDK 15 https://adoptopenjdk.net/
 
 ## Project
 
-- Maven 3.6.3
-- Java 11
+- Java 15
 - JUnit 5
+- Maven 3.6.3
 
-## Run Tests
+## Check that everything works on your machine:
 
-```
-./mvnw test
-```
+1. Run `mob moo` on your console. It should moo.
+2. Run `./mvnw test` in the checked out git repository. The one and only test should be green.
+3. Import the project in your IDE and run the tests.
