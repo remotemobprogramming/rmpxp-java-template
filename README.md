@@ -4,7 +4,7 @@
 
 - 'mob' tool https://mob.sh
 - JDK 15 https://adoptopenjdk.net/
-- Some IDE
+- An IDE of your choice (IntelliJ IDEA is recommended)
 
 ## Project
 
