@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.remotemobprogramming</groupId>
-  <artifactId>kata-java-template</artifactId>
+  <artifactId>workshop-java-template</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
