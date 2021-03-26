@@ -3,14 +3,14 @@
 ## Installation
 
 - 'mob' tool https://mob.sh
-- JDK 15 https://adoptopenjdk.net/
+- JDK 11 https://adoptopenjdk.net/
 - An IDE of your choice (IntelliJ IDEA is recommended)
 
 ## Project
 
-- Java 15
+- Java 11
 - JUnit 5
-- Maven 3.6.3
+- Maven 3
 
 ## Check that everything works on your machine:
 

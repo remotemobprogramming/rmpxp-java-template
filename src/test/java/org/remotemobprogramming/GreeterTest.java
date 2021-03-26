@@ -10,8 +10,7 @@ class GreeterTest {
   void greet() {
     var greeter = new Greeter();
 
-    var greeting = greeter.greet("""
-        Heribert Innoq""");
+    var greeting = greeter.greet("Heribert Innoq");
 
     assertEquals("Hallo Heribert Innoq", greeting);
   }
